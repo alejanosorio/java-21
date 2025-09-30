@@ -1,0 +1,7 @@
+En Java,
+public es un modificador de acceso que determina si los miembros
+de una clase (métodos, variables, etc.) pueden ser accedidos desde
+cualquier otro lugar del código, mientras que static es un modificador
+ de miembro que indica que el miembro pertenece a la clase
+ en sí y no a una instancia (objeto)
+específica de la clase, permitiendo su acceso sin crear un objeto
